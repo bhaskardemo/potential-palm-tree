@@ -1,1 +1,4 @@
 instructions for deploying this sitr to the server
+---------------
+Trouble shooting
+---------------
