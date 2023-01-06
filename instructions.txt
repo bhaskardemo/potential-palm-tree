@@ -1,4 +1,2 @@
-instructions for deploying this sitr to the server
-installation on instructions
------------------------------
-content goes here
+installation on IIS
+----------------------
